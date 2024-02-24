@@ -1,16 +1,16 @@
 {
-  "name": "startd-theme",
-  "description": "A TypeScript/Next.js theme that includes everything you need to build amazing landing page!",
+  "name": "tmc",
+  "description": "Want to know where you're bad at? The Maroon Code AI is about to launch its AI Tool for Reviewees! Coming Soon!",
   "version": "1.0.0",
   "private": true,
-  "author": "Jaakko Kytölä <kytola.jaakko@gmail.com> (jaakkokytola.com)",
+  "author": "Blackreil",
   "license": "MIT",
   "keywords": [
-    "nextjs",
-    "starter",
-    "typescript",
-    "tailwind",
-    "theme"
+    "tmc",
+    "review",
+    "ai",
+    "the maroon code",
+    "students"
   ],
   "scripts": {
     "dev": "next",
